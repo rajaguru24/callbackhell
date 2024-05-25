@@ -1,0 +1,15 @@
+*{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+} 
+    
+body{
+    background-color: aquamarine;
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    margin-top: 150px;
+
+}
+button{
+    font-size: xx-large;
+    color: red;
